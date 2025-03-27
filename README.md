@@ -7,5 +7,4 @@ I am a student in Systems Analysis and Software Development. I study Python and 
   
 - I’m looking forward to collaborate on open source projects.
 - Ask me about anything, I am happy to help, only if the ball is in my court!<br>
-- Outside tech, I love to read novels, do painting and skecthing, listen to music, and explore nature outdoors.
-- Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- Outside tech, I love to read novels, listen to music, and explore nature outdoors.
