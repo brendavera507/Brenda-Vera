@@ -8,3 +8,12 @@ I am a student in Systems Analysis and Software Development. I study Python and 
 - I’m looking forward to collaborate on open source projects.
 - Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 - Outside tech, I love to read novels, listen to music, and explore nature outdoors.
+
+## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
